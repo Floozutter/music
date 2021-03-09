@@ -1,2 +1,2 @@
 # music
-My music compositions!
+my sounds

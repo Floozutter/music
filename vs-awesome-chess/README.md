@@ -1,2 +1,2 @@
 # vs-awesome-chess
-Harry's 3-word-theme.
+harry's 3 words
