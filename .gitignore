@@ -1,2 +1,5 @@
-# Output audio files.
+# audio output
 *.wav
+
+# MuseScore
+.mscbackup/
